@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["367X9MY986.com.taigayanai.watashitoongaku"],
+        "components": [{ "/": "/ourmusic/add*", "comment": "Our Music friend invite" }]
+      }
+    ]
+  }
+}
